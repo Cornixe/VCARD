@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.2//EN
+N:Monin;Sandrine;;;
+FN:Sandrine Monin
+ORG:Smart Concept;
+item1.EMAIL;type=INTERNET;type=pref:sandrine.monin@egis-group.com
+item1.X-ABLabel:Egis
+item2.EMAIL;type=INTERNET:sm.smartconcept@gmail.com
+item2.X-ABLabel:Smart Concept
+item3.TEL;type=pref:06 16 60 43 11
+item3.X-ABLabel:Pro
+item4.URL;type=pref:https://smartconcept-montpellier.fr/
+item4.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
